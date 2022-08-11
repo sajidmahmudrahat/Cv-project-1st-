@@ -1,0 +1,266 @@
+body{
+   background-color:#EEE;
+   font-family: 'Roboto', sans-serif;
+}
+
+.container{
+   background-color:rgb(201, 243, 243);
+   margin:0px auto;
+   max-width: 1000px;
+   padding:10px;
+}
+#image{
+   width:150px;
+   height: auto;
+   border:2px solid white;
+   border-radius:50%;
+   float:left;
+   
+}
+.head{
+   float: left;
+   padding:15px;
+   line-height:0.8rem;
+
+}
+/*---------------------
+Header Color section
+----------------------*/
+h1,h2,h3,h4,h5,h6{
+   color:#11999e;
+}
+
+/*---------------------
+Header Contact section
+---------------------*/
+.header-contact{
+float:right;
+padding:15px;
+line-height: 0.8rem;
+}
+.header-contact a{
+   padding:10px;
+   text-decoration:none;
+   color:#11999e;
+   font-size:17px;
+   font-weight:600;
+}
+.header-contact a:hover{
+   color: yellowgreen;
+   text-decoration:underline;
+}
+
+/*---------------
+Div Clear section
+-----------------*/
+
+.div-clear{
+   clear:both;
+}
+
+
+/*----------------------------
+common Horizontal rule Section
+-----------------------------*/
+hr{
+   border: 3px solid rgba(0, 0, 0, 0.719);
+   width:100%;
+   margin:10px auto;
+   border-bottom:none;
+}
+
+
+
+/*---------------------
+personal section start
+-----------------------*/
+.personal-information{
+
+}
+
+.conten{
+
+}
+.left-div{
+width:40%;
+float:left;
+margin-top:30px;
+}
+
+.right-div{
+width:60%;
+float:left;
+margin-top:10px;
+text-align:justify;
+
+}
+.common-hr{
+border: 1px solid black;
+border-bottom:none;
+width:100%;
+margin:15px auto;
+}
+
+/*-------------------
+work experience style
+--------------------*/
+.work-experience{
+
+}
+
+.conten2{
+
+}
+
+.left-div{
+   width:40%;
+   float:left;
+   margin-top:30px;
+}
+
+.right-div{
+   width:60%;
+   float:left;
+   margin-top:10px;
+   text-align:justify;
+}
+.common-hr{
+   border: 1px solid black;
+   border-bottom:none;
+   width:100%;
+   margin:15px auto;
+   }
+
+/*-------------------------
+Key skill section start
+--------------------------*/
+.key-skill{
+
+}
+
+.conten3{
+
+}
+
+.left-div{
+   width:40%;
+   float:left;
+   margin-top:30px;
+}
+
+.right-div{
+   width:60%;
+   float:left;
+   margin-top:10px;
+   margin-left:0px;
+   padding:0px;
+}
+.common-hr{
+   border: 1px solid black;
+   border-bottom:none;
+   width:100%;
+   margin:15px auto;
+   }
+/*------------------------
+   Education section Start
+-------------------------*/
+.Education-section{
+
+}
+
+.conten4{
+
+}
+
+.left-div{
+   width:40%;
+   float:left;
+   margin-top:30px;
+}
+.right-div{
+   width:60%;
+   float:left;
+   margin-top:10px;
+   
+}
+.edutemplate-left{
+float:left;
+width:45%;
+
+}
+.edutamplete-right{
+float:right;
+width:45%;
+
+}
+
+
+
+.common-hr{
+   border: 1px solid black;
+   border-bottom:none;
+   width:100%;
+   margin:15px auto;
+ }
+ /*------------------------
+ Reference section start
+ ------------------------*/
+
+ .referrence{
+
+ }
+ .conten5{
+
+ }
+
+ .left-div{
+   width:40%;
+   float:left;
+   margin-top:30px;
+}
+.right-div{
+   width:60%;
+   float:left;
+   margin-top:10px;
+}
+
+.refferance-1{
+width:45%;
+float:left;
+
+
+}
+.referance-2{
+width:50%;
+float:right;
+
+}
+.common-hr{
+   border: 1px solid black;
+   border-bottom:none;
+   width:100%;
+   margin:15px auto;
+ } 
+
+
+ /*---------------------
+ Footer section start
+ ----------------------*/
+ .footer{
+   background-color:black;
+   color:white;
+   
+   text-align:center;
+   padding:10px;
+
+ }
+ .footer a{
+text-decoration: None;
+color:white;
+margin:20px;
+
+ }
+footer p{
+   color:white;
+margin-top:20px;
+}
